@@ -1,0 +1,31 @@
+//===========================================================================
+//	BloodBath bots	version 2.0
+//	By: Predator
+//===========================================================================
+
+//{
+//name		blizzard
+//model		ranger/blizzard
+//funname	"Blizzard Beast"
+//color		1
+//aifile	bots/blizzard_c.c
+//arenaLord	1
+//}
+
+//{
+//name		commando
+//model		ranger/commando
+//funname	"Commando"
+//color		3
+//aifile	bots/commando_c.c
+//arenaLord	1
+//}
+
+//{
+//name		cmarine
+//model		ranger/cmarine
+//funname	"Colonial Marine"
+//color		5
+//aifile	bots/cmarine_c.c
+//arenaLord	1
+//}
